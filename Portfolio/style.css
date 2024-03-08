@@ -1,0 +1,48 @@
+.header-nav {
+  border-radius: 0;
+  border:0;
+}
+header{
+  background-color:peru;
+}
+.float-end{
+  padding-right: 15px;
+}
+.col-md-6{
+  margin-top:20px;
+ }
+ .first{
+  font-weight: bold;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 32px;
+  padding-top: 150px;
+}
+span{
+  font-weight: bold;
+}
+
+#nav-list a:hover {
+  background-color: gray;
+}
+.progress{
+  margin-top: 20px;
+}
+.LG{
+  padding-top: 200px;
+  padding-left: 100px;
+}
+.name{
+  padding-top: 200px;
+  font-weight: bold;
+}
+.fa-brands{
+  padding-top: 200px;
+  float: right ;
+  padding-left:10px ;
+}
+.col-md-3{
+  border: 1px solid black;
+  padding: 0px;
+  margin-right: 3px;
+  width:24% !important;
+}
