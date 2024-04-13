@@ -1,0 +1,38 @@
+header,h2,p{
+  background-color:chocolate ;
+}
+span{
+  display: block;
+  font-weight: bold;
+  text-align: center;
+  font-size: larger;
+}
+h1{
+  text-align: center;
+  margin-bottom: 30px;
+}
+p{
+  margin-top: 15px;
+}
+#nav-list .navbar-nav {
+  text-align: center;
+}
+
+#beef{
+background-color: chocolate;
+margin-bottom: 10px;
+margin-right: 0.9px;
+}
+#sushi{
+  background-color: chocolate;
+  margin-bottom: 10px;
+  margin-right: 0.5px;
+ 
+}
+#chicken{
+  background-color: chocolate;
+  margin-bottom: 10px;
+}
+*{
+  box-sizing: border-box;
+}
